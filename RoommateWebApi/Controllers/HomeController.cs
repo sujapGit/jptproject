@@ -22,7 +22,7 @@ namespace RoommateWebApi.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "You contact page.";
+            ViewBag.Message = "You contact.";
 
             return View();
         }
