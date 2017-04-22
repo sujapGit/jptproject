@@ -10,6 +10,8 @@ namespace RoommateWebApi.Controllers
     {
         public ActionResult Index()
         {
+
+            // hi i am
             return View();
         }
 
